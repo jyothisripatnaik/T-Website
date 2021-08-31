@@ -1460,7 +1460,7 @@ section {
 }
 
 #courses-datascience-hero{
-  background-image: url("assets/img/Data-Science-course-hero.webp");
+  background-image: url("../assets/img/Data-Science-course-hero.webp");
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
@@ -1502,7 +1502,7 @@ section {
 }
 
 #courses-fsd-hero{
-  background-image: url("assets/img/fsd-hero.webp");
+  background-image: url("../assets/img/fsd-hero.webp");
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
@@ -1530,7 +1530,7 @@ section {
 
 /*Digital marketing page*/
 #courses-dm-hero{
-    background-image: url("/assets/img/Digital-marketing-course.webp");
+    background-image: url("../assets/img/Digital-marketing-course.webp");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -1571,7 +1571,7 @@ section {
 
 
 #about-us-bg{
-  background-image: url("assets/img/about-us-bg.webp") !important;
+  background-image: url("../assets/img/about-us-bg.webp") !important;
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
@@ -1800,7 +1800,7 @@ section {
     /* About US page */
 
     #about-main{
-      background-image: url("assets/img/about-bg.webp");
+      background-image: url("../assets/img/about-bg.webp");
       height: 100%; 
       background-position: center;
       background-repeat: no-repeat;
@@ -1826,7 +1826,7 @@ section {
       }
     }
     #about-container{
-      background-image: url("/assets/img/mission-vision.webp");  
+      background-image: url("../assets/img/mission-vision.webp");  
       height: 730px;
       background-position: center;
       background-repeat: no-repeat;
